@@ -7,7 +7,7 @@ const appetizers = [
         id: "Samosa",
         name: "Samosa",
         price: "$1.00",
-        image: "/01_Appetizers/01_Samosa.webp",
+        image: "public/images/Appetizers/01_Samosa.webp",
       },
       {
         id: "Vada",
