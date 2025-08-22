@@ -7,13 +7,13 @@ const appetizers = [
         id: "Samosa",
         name: "Samosa",
         price: "$1.00",
-        image: "src/assets/Bharat-Bhavan-images/01_Appetizers/01_Samosa.webp",
+        image: "public/Bharat-Bhavan-images/01_Appetizers/01_Samosa.webp",
       },
       {
         id: "Vada",
         name: "Vada",
         price: "$1.00",
-        image: "src/assets/Bharat-Bhavan-images/01_Appetizers/02_Vada.webp",
+        image: "public/Bharat-Bhavan-images/01_Appetizers/02_Vada.webp",
       },
       {
         id: "MeduVada",
