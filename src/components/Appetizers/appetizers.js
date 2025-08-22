@@ -19,7 +19,7 @@ const appetizers = [
         id: "MeduVada",
         name: "Medu vada",
         price: "$1.00",
-        image: "src/assets/Bharat-Bhavan-images/01_Appetizers/03_Medu_Vada.webp",
+        image: "public/Bharat-Bhavan-images/01_Appetizers/03_Medu_Vada.webp",
       },
       {
         id: "CurdVada",
